@@ -27,7 +27,7 @@ namespace Demo_net8_line_notify.Controllers
                 request.Method = "POST";
                 request.ContentType = "application/x-www-form-urlencoded";
                 request.ContentLength = data.Length;
-                request.Headers.Add("Authorization", "Bearer " + "90Ftko1sPlveHeZgFOdWTZIPOluoyuIoBdeomzz1rf4");
+                request.Headers.Add("Authorization", "Bearer " + "90Ftko1sPasdasdasdasdasdasdasdasdasdasd");
 
                 using (var stream = request.GetRequestStream())
                 {
