@@ -1,0 +1,6 @@
+@Demo_net8_line_notify_HostAddress = http://localhost:5157
+
+GET {{Demo_net8_line_notify_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
